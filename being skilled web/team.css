@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: sans-serif;
+    /* display: flex;
+    flex-direction: row; */
+}
+.member
+{
+    width: 50%;
+    height: 500px;
+    display: inline-block;
+    border: 2px solid ;
+    display: flex;
+    flex-direction: row;
+}
